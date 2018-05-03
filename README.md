@@ -7,6 +7,9 @@ INFO
 - E-mail: kohnofumiya@gmail.com
 - Twitter: [@fnwiya](https://twitter.com/fnwiya)
 - GitHub: https://github.com/fnwiya
+- Blog(Japanese): http://fnwiya.hatenablog.com/
+- Facebook: https://www.facebook.com/fumiya.kohno
+- Linkedin: https://www.linkedin.com/in/fumiya-kohno-a256b9116/
 
 QUALIFICATIONS
 ===
