@@ -10,7 +10,7 @@ INFO
 
 QUALIFICATIONS
 ===
-- PistgreSQL
+- PostgreSQL
 - JavaScript
 - Python
 - AWS RDS EC2
