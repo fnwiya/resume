@@ -22,8 +22,8 @@ PROFESSIONAL EXPERIENCE
 ---
 **Software Engineer**
 
-- Develop visualization service http://japanchoice.jp/
-  - It was featured in Buzzfeed https://www.buzzfeed.com/jp/harunayamazaki/japan-choice?utm_term=.saWXbG8gl#.ni88gO1Rz
+- Developed visualization service http://japanchoice.jp/
+  - Featured in Buzzfeed https://www.buzzfeed.com/jp/harunayamazaki/japan-choice?utm_term=.saWXbG8gl#.ni88gO1Rz
   - Got Innovative Communication Award(ICA) 第五回「広告業界の若手が選ぶ、コミュニケーション大賞 」優秀賞 http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf
 
 
@@ -31,9 +31,9 @@ PROFESSIONAL EXPERIENCE
 ---
 **Chief Engineer**
   
-- Develop search engine.
-- Improve development environment
-  - Migrate VCS mercurual to git
+- Developed search engine.
+- Improved development environment
+  - Migrated VCS mercurual to git
   - Set code convention and linter
 
 
@@ -41,8 +41,8 @@ PROFESSIONAL EXPERIENCE
 ---
 **General Manager**
 
-- Coordinate lawmaker-Internship
-- Develop web service for internship students
+- Coordinated lawmaker-Internship
+- Developed a daily report application for internship students
 
 
 EDUCATION
