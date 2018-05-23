@@ -13,6 +13,8 @@ QUALIFICATIONS
 - PostgreSQL
 - JavaScript
 - Python
+- Rust
+- Clojure
 - AWS RDS EC2
 
 PROFESSIONAL EXPERIENCE
