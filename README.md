@@ -12,6 +12,8 @@ QUALIFICATIONS
 ===
 - PostgreSQL
 - JavaScript
+  - Node.js
+  - React/Redux
 - Python
 - Rust
 - Clojure
@@ -25,7 +27,7 @@ PROFESSIONAL EXPERIENCE
 **Software Engineer**
 
 - Developed visualization service http://japanchoice.jp/
-  - Featured in Buzzfeed https://www.buzzfeed.com/jp/harunayamazaki/japan-choice?utm_term=.saWXbG8gl#.ni88gO1Rz
+  - Featured in Buzzfeed [https://www.buzzfeed.com/jp/harunayamazaki/japan-choice?utm_term=.saWXbG8gl#.ni88gO1Rz](https://www.buzzfeed.com/jp/harunayamazaki/japan-choice?utm_term=.saWXbG8gl#.ni88gO1Rz)
   - Got Innovative Communication Award(ICA) 第五回「広告業界の若手が選ぶ、コミュニケーション大賞 」優秀賞 http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf
 
 
