@@ -14,10 +14,10 @@ QUALIFICATIONS
 - JavaScript
   - Node.js
   - React/Redux
-- Python
 - Rust
 - Clojure
-- AWS RDS EC2
+- Blockchain
+  - Ethereum
 
 PROFESSIONAL EXPERIENCE
 ===
