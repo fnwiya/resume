@@ -35,10 +35,14 @@ PROFESSIONAL EXPERIENCE
 ---
 **Chief Engineer**
   
-- Developed search engine.
+- Developed search engine
+- Developed travel applications
+  - https://www.his-vacation.com/
+  - etc
 - Improved development environment
   - Migrated VCS mercurual to git
   - Set code convention and linter
+- Participated in ISUCON http://isucon.net/
 
 
 [Dot-jp, Nonprofit Organization](http://www.dot-jp.or.jp/) 2012.09 - 2015.03
