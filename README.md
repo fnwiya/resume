@@ -21,6 +21,12 @@ QUALIFICATIONS
 
 PROFESSIONAL EXPERIENCE
 ===
+[Japan Venture Research Co., LTD.](http://jvr.jp/) 2018.08 -
+---
+**Engineer**
+  
+- Developed entrepedia(https://biz.entrepedia.jp/), startup database platform.
+
 
 [Mielka, Nonprofit Organization](mielka.org) 2017.04 -
 ---
@@ -31,14 +37,13 @@ PROFESSIONAL EXPERIENCE
   - Got Innovative Communication Award(ICA) 第五回「広告業界の若手が選ぶ、コミュニケーション大賞 」優秀賞 http://www.jaaa.ne.jp/wp-content/uploads/2018/04/5603d76ba848cb962fb260253f8e7925.pdf
 
 
-[Forcia, Inc.](http://www.forcia.com/) 2016.04 -
+[Forcia, Inc.](http://www.forcia.com/) 2016.04 - 2018.07
 ---
 **Chief Engineer**
   
 - Developed search engine
 - Developed travel applications
   - https://www.his-vacation.com/
-  - etc
 - Improved development environment
   - Migrated VCS mercurual to git
   - Set code convention and linter
