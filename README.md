@@ -15,17 +15,22 @@ QUALIFICATIONS
   - Node.js
   - React/Redux
 - Rust
-- Clojure
+  - wasm
 - Blockchain
   - Ethereum
 
 PROFESSIONAL EXPERIENCE
 ===
-[Japan Venture Research Co., LTD.](http://jvr.jp/) 2018.08 -
+[Japan Venture Research Co., LTD.](http://jvr.jp/) / [Uzabase, Inc.](https://www.uzabase.com/) 2018.08 -
 ---
 **Engineer**
   
 - Developed entrepedia(https://biz.entrepedia.jp/), startup database platform.
+- Developed ami(https://biz.entrepedia.jp/), live app for entrepreneurs.
+  - react native
+  - Ruby on Rails
+  - k8s
+  - firebase
 
 
 [Mielka, Nonprofit Organization](mielka.org) 2017.04 -
@@ -45,7 +50,6 @@ PROFESSIONAL EXPERIENCE
 - Developed travel applications
   - https://www.his-vacation.com/
 - Improved development environment
-  - Migrated VCS mercurual to git
   - Set code convention and linter
 - Participated in ISUCON http://isucon.net/
 
